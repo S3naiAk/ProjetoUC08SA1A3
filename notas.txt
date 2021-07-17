@@ -1,0 +1,5 @@
+git config --global user.name "Alberto"
+
+git add .
+git commit -m "Primeiro Commit"
+git push origin master
